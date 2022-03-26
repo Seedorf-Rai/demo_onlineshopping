@@ -108,6 +108,7 @@ nav{
 	padding: 6px 10px 6px 30px;
 	border-radius: 50px;
 }
+
 .search-bar form{
 	display: flex;
 	align-items: center;
@@ -164,4 +165,8 @@ nav{
 }
 .products div span a:hover{
 	color:#FF5361;
+}
+.my-button{
+	position: relative;
+	left: 45%;
 }
